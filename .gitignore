@@ -12,3 +12,5 @@ data/*.csv
 
 # Ignorar banco de dados do Airflow
 airflow.db
+chave.json
+chave_bigquery.json
