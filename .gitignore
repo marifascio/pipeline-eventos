@@ -1,0 +1,14 @@
+# Ignorar arquivos e pastas de ambiente virtual
+__pycache__/
+.venv/
+.env
+
+# Ignorar arquivos de configuração sensíveis
+configs/*.json
+configs/*.yaml
+
+# Ignorar arquivos de dados
+data/*.csv
+
+# Ignorar banco de dados do Airflow
+airflow.db
