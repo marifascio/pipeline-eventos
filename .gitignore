@@ -14,3 +14,15 @@ data/*.csv
 airflow.db
 chave.json
 chave_bigquery.json
+
+# Arquivos sensíveis
+chave.json
+chave_bigquery.json
+.env
+
+# Ambientes virtuais
+.venv/
+__pycache__/
+
+# Arquivos temporários
+*.log
